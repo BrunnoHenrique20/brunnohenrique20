@@ -1,4 +1,4 @@
-### Olá seja bem-vindo ao meu repositório, aqui estou hospedando algumas atividades que realizo no curso de Programação Orientada a Objetos em Python, além de outros projetos do curso, e projetos de minha autoria, sinta-se a vontade para visualizar os códigos e aprender mais. 👋
+### Olá seja bem-vindo, aqui estou hospedando algumas atividades que realizo no curso de POO em Python, e demais projetos de minha Autoria, sinta-se a vontade para visualizar os códigos e aprender mais. 👋
 
 <!--
 **BrunnoHenrique20/brunnohenrique20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
